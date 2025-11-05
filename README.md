@@ -4,14 +4,14 @@
 
 ## Skills & Technologies
 
-**Operating System  -** Linux , Ubuntu 
-**Cloud Technology  -**  AWS, Azure  
+**Operating System  -** Linux , Ubuntu  
+**Cloud Platform  -**  AWS, Azure  
 **Version control  -**  Git, GitHub, Bitbucket  
-**Configuration Management  -**  Ansible  
-**Continuous Integration and Delivery  -**  Jenkins, AzureDevOps, Argo CD
-**Container & Orchestration  -**  Docker, Kubernetes, EKS, AKS 
-**Infrastructure as Code (IaC) -**  Terraform  
-**Scripting -** Python, Bash
+**Configuration Management  -**  Ansible    
+**Continuous Integration and Delivery  -**  Jenkins, AzureDevOps, Argo CD    
+**Container & Orchestration  -**  Docker, Kubernetes, EKS, AKS  
+**Infrastructure as Code (IaC) -**  Terraform   
+**Scripting -** Python, Bash    
 **Monitoring & Observability -** Prometheus, Grafana, Elastic Stack 
 
 ## 🔭 Project -
