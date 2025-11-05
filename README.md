@@ -16,7 +16,7 @@
 
 ## 🔭 Project -
 
-### [Automated Infra creation](https://github.com/GauriNandan99/my-demo-ci-cd)
+### [Automated Infra creation](https://github.com/GauriNandan99/DevOps-Infra-Automation)
 This project is a fully automated, immutable, N-tier application infrastructure creation and deployment pipeline built using Terraform, Azure DevOps, and Packer. It implements a production-grade N-tier architecture on Microsoft Azure following Infrastructure as Code (IaC) principles.
 
 ### Key Features
