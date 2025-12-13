@@ -8,10 +8,10 @@
 **Cloud Platform  -**  AWS, Azure  
 **Version control  -**  Git, GitHub, Bitbucket  
 **Configuration Management  -**  Ansible    
-**Continuous Integration and Delivery  -**  Jenkins, AzureDevOps, Argo CD    
+**Continuous Integration and Delivery  -**  Jenkins, AzureDevOps, GitHub Actions, Argo CD    
 **Container & Orchestration  -**  Docker, Kubernetes, EKS, AKS  
 **Infrastructure as Code (IaC) -**  Terraform   
-**Scripting -** Python, Bash    
+**Scripting -** Python, Bash  & REST APIs  
 **Monitoring & Observability -** Prometheus, Grafana, Elastic Stack 
 
 ## 🔭 Project -
